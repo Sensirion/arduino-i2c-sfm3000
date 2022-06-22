@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SensirionI2CSdp	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+startContinuousMeasurement	KEYWORD2
+stopContinuousMeasurement	KEYWORD2
+readMeasurementRaw	KEYWORD2
+readMeasurement	KEYWORD2
+readSerialNumber	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+sfm	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
